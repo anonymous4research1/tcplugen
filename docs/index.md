@@ -5,11 +5,6 @@ Supporting webpage for ISMIR 2025.
 Code is available <a href="https://github.com/anonymous4research1/tcplugen">here</a>.
 </div>
 
-<br>
-
-*Note: This website is still under construction and will be updated soon.*
-
-
 
 <div style="text-align: justify"> 
 
@@ -64,16 +59,17 @@ We provide an example for each category of instruments which are :
 
 Scroll to see all the results if necessary.
 
-<table class="table table-sm text-center" style="vertical-align: middle;">
-  <colgroup>
+<div style="overflow-x: auto; width: 100%;">
+  <table class="table table-sm text-center" style="vertical-align: middle; min-width: 4500px;">
+    <colgroup>
+      <col style="width: 50px;">
       <col style="width: 200px;">
-      <col style="width: 200px;">
-      <col style="width: 600px;">
-      <col style="width: 600px;">
-      <col style="width: 600px;">
-      <col style="width: 600px;">
-      <col style="width: 600px;">
-      <col style="width: 600px;">
+      <col style="width: 4000px; height: 100px; object-fit: contain">
+      <col style="width: 4000px; height: 500px; object-fit: contain">
+      <col style="width: 4000px; height: 500px; object-fit: contain">
+      <col style="width: 4000px; height: 500px; object-fit: contain">
+      <col style="width: 4000px; height: 500px; object-fit: contain">
+      <col style="width: 4000px; height: 500px; object-fit: contain">
     </colgroup>
   <thead>
     <tr>
@@ -91,71 +87,72 @@ Scroll to see all the results if necessary.
   <tr>
     <td>1</td>
     <td><audio src="assets/results/medley_solos/feat_ext/83/83_audio_input.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/feat_ext/83/83_female singer_pitch.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/83/83_female singer_instrument.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/83/83_female singer_loudness1s.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/83/83_female singer_bandwidth.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/83/83_female singer_booming.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/83/83_female singer_sharpness.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/83/83_female singer_pitch.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/83/83_female singer_instrument.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/83/83_female singer_loudness1s.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/83/83_female singer_bandwidth.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/83/83_female singer_booming.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/83/83_female singer_sharpness.png"></td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td><audio src="assets/results/medley_solos/feat_ext/50/50_audio_input.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/feat_ext/50/50_violin_pitch.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/50/50_violin_instrument.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/50/50_violin_loudness1s.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/50/50_violin_bandwidth.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/50/50_violin_booming.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/50/50_violin_sharpness.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/50/50_violin_pitch.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/50/50_violin_instrument.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/50/50_violin_loudness1s.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/50/50_violin_bandwidth.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/50/50_violin_booming.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/50/50_violin_sharpness.png"></td>
     <td></td>
   </tr>
   <tr>
     <td>3</td>
     <td><audio src="assets/results/medley_solos/feat_ext/1/1_audio_input.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/feat_ext/1/1_flute_pitch.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/1/1_flute_instrument.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/1/1_flute_loudness1s.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/1/1_flute_bandwidth.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/1/1_flute_booming.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/1/1_flute_sharpness.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/1/1_flute_pitch.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/1/1_flute_instrument.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/1/1_flute_loudness1s.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/1/1_flute_bandwidth.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/1/1_flute_booming.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/1/1_flute_sharpness.png"></td>
     <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td><audio src="assets/results/medley_solos/feat_ext/607/607_audio_input.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/feat_ext/607/607_clarinet_pitch.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/607/607_clarinet_instrument.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/607/607_clarinet_loudness1s.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/607/607_clarinet_bandwidth.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/607/607_clarinet_booming.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/607/607_clarinet_sharpness.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/607/607_clarinet_pitch.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/607/607_clarinet_instrument.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/607/607_clarinet_loudness1s.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/607/607_clarinet_bandwidth.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/607/607_clarinet_booming.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/607/607_clarinet_sharpness.png"></td>
     <td></td>
   </tr>
   <tr>
     <td>5</td>
     <td><audio src="assets/results/medley_solos/feat_ext/96/96_audio_input.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/feat_ext/96/96_tenor saxophone_pitch.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/96/96_tenor saxophone_instrument.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/96/96_tenor saxophone_loudness1s.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/96/96_tenor saxophone_bandwidth.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/96/96_tenor saxophone_booming.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/96/96_tenor saxophone_sharpness.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/96/96_tenor saxophone_pitch.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/96/96_tenor saxophone_instrument.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/96/96_tenor saxophone_loudness1s.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/96/96_tenor saxophone_bandwidth.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/96/96_tenor saxophone_booming.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/96/96_tenor saxophone_sharpness.png"></td>
     <td></td>
   </tr>
   <tr>
     <td>6</td>
     <td><audio src="assets/results/medley_solos/feat_ext/108/108_audio_input.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/feat_ext/108/108_trumpet_pitch.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/108/108_trumpet_instrument.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/108/108_trumpet_loudness1s.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/108/108_trumpet_bandwidth.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/108/108_trumpet_booming.png" controls style="width: 300px; height: 100px"></td>
-    <td><img src="assets/results/medley_solos/feat_ext/108/108_trumpet_sharpness.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/108/108_trumpet_pitch.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/108/108_trumpet_instrument.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/108/108_trumpet_loudness1s.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/108/108_trumpet_bandwidth.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/108/108_trumpet_booming.png"></td>
+    <td><img src="assets/results/medley_solos/feat_ext/108/108_trumpet_sharpness.png"></td>
     <td></td>
   </tr>
   </tbody>
 </table> 
+</div>
 
 # Audio editing
 
@@ -169,17 +166,18 @@ For instrument editing with AFTER<a href="#note3" id="note3ref">[3]</a>, we cons
 
 Scroll to see all the results if necessary.
 
-<table class="table table-sm text-center" style="vertical-align: middle;">
+<div style="overflow-x: auto; width: 100%;">
+<table class="table table-sm text-center" style="vertical-align: middle; min-width: 1900px;">
   <colgroup>
-    <col style="width: 200px;">
+    <col style="width: 50px;">
+      <col style="width: 200px;">
+      <col style="width: 200px;">
+      <col style="width: 50px;">
       <col style="width: 200px;">
       <col style="width: 200px;">
       <col style="width: 200px;">
       <col style="width: 200px;">
-      <col style="width: 200px;">
-      <col style="width: 200px;">
-      <col style="width: 200px;">
-      <col style="width: 600px;">
+      <col style="width: 600px; height: 50px; object-fit: contain">
     </colgroup>
   <thead>
     <tr>
@@ -205,7 +203,7 @@ Scroll to see all the results if necessary.
     <td><audio src="assets/results/medley_solos/edit/83_560/83_560_edit_inst_female singer_violin_after.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/83_560/83_560_edit_inst_female singer_violin_ours.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/83_560/83_560_edit_inst_female singer_violin_ours_style_target.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/edit/83_560/83_560_edit_inst_female singer_violin_ours.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/edit/83_560/83_560_edit_inst_female singer_violin_ours.png"></td>
   </tr>
   <tr>
     <td>melody</td>
@@ -213,7 +211,7 @@ Scroll to see all the results if necessary.
     <td><audio src="assets/results/medley_solos/edit/83_560/83_560_edit_mel_after.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/83_560/83_560_edit_mel_ours.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/83_560/83_560_edit_mel_ours_style_target.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/edit/83_560/83_560_edit_mel_ours.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/edit/83_560/83_560_edit_mel_ours.png"></td>
   </tr>
 
   <tr>
@@ -225,7 +223,7 @@ Scroll to see all the results if necessary.
     <td><audio src="assets/results/medley_solos/edit/174_50/174_50_edit_inst_flute_violin_after.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/174_50/174_50_edit_inst_flute_violin_ours.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/174_50/174_50_edit_inst_flute_violin_ours_style_target.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/edit/174_50/174_50_edit_inst_flute_violin_ours.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/edit/174_50/174_50_edit_inst_flute_violin_ours.png"></td>
   </tr>
   <tr>
     <td>melody</td>
@@ -233,7 +231,7 @@ Scroll to see all the results if necessary.
     <td><audio src="assets/results/medley_solos/edit/174_50/174_50_edit_mel_after.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/174_50/174_50_edit_mel_ours.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/174_50/174_50_edit_mel_ours_style_target.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/edit/174_50/174_50_edit_mel_ours.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/edit/174_50/174_50_edit_mel_ours.png"></td>
   </tr>
 
   <tr>
@@ -245,7 +243,7 @@ Scroll to see all the results if necessary.
     <td><audio src="assets/results/medley_solos/edit/202_652/202_652_edit_inst_violin_trumpet_after.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/202_652/202_652_edit_inst_violin_trumpet_ours.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/202_652/202_652_edit_inst_violin_trumpet_ours_style_target.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/edit/202_652/202_652_edit_inst_violin_trumpet_ours.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/edit/202_652/202_652_edit_inst_violin_trumpet_ours.png"></td>
   </tr>
   <tr>
     <td>melody</td>
@@ -253,7 +251,7 @@ Scroll to see all the results if necessary.
     <td><audio src="assets/results/medley_solos/edit/202_652/202_652_edit_mel_after.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/202_652/202_652_edit_mel_ours.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/202_652/202_652_edit_mel_ours_style_target.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/edit/202_652/202_652_edit_mel_ours.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/edit/202_652/202_652_edit_mel_ours.png"></td>
   </tr>
   <!-- okkk -->
   
@@ -267,7 +265,7 @@ Scroll to see all the results if necessary.
     <td><audio src="assets/results/medley_solos/edit/595_286/595_286_edit_inst_violin_flute_after.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/595_286/595_286_edit_inst_violin_flute_ours.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/595_286/595_286_edit_inst_violin_flute_ours_style_target.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/edit/595_286/595_286_edit_inst_violin_flute_ours.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/edit/595_286/595_286_edit_inst_violin_flute_ours.png"></td>
   </tr>
   <tr>
     <td>melody</td>
@@ -275,7 +273,7 @@ Scroll to see all the results if necessary.
     <td><audio src="assets/results/medley_solos/edit/595_286/595_286_edit_mel_after.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/595_286/595_286_edit_mel_ours.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/595_286/595_286_edit_mel_ours_style_target.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/edit/595_286/595_286_edit_mel_ours.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/edit/595_286/595_286_edit_mel_ours.png"></td>
   </tr>
 
   <tr>
@@ -287,7 +285,7 @@ Scroll to see all the results if necessary.
     <td><audio src="assets/results/medley_solos/edit/607_595/607_595_edit_inst_clarinet_violin_after.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/607_595/607_595_edit_inst_clarinet_violin_ours.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/607_595/607_595_edit_inst_clarinet_violin_ours_style_target.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/edit/607_595/607_595_edit_inst_clarinet_violin_ours.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/edit/607_595/607_595_edit_inst_clarinet_violin_ours.png"></td>
   </tr>
   <tr>
     <td>melody</td>
@@ -295,7 +293,7 @@ Scroll to see all the results if necessary.
     <td><audio src="assets/results/medley_solos/edit/607_595/607_595_edit_mel_after.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/607_595/607_595_edit_mel_ours.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/607_595/607_595_edit_mel_ours_style_target.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/edit/607_595/607_595_edit_mel_ours.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/edit/607_595/607_595_edit_mel_ours.png"></td>
   </tr>
 
   <tr>
@@ -307,7 +305,7 @@ Scroll to see all the results if necessary.
     <td><audio src="assets/results/medley_solos/edit/652_83/652_83_edit_inst_trumpet_female singer_after.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/652_83/652_83_edit_inst_trumpet_female singer_ours.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/652_83/652_83_edit_inst_trumpet_female singer_ours_style_target.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/edit/652_83/652_83_edit_inst_trumpet_female singer_ours.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/edit/652_83/652_83_edit_inst_trumpet_female singer_ours.png"></td>
   </tr>
   <tr>
     <td>melody</td>
@@ -315,7 +313,7 @@ Scroll to see all the results if necessary.
     <td><audio src="assets/results/medley_solos/edit/652_83/652_83_edit_mel_after.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/652_83/652_83_edit_mel_ours.wav" controls style="width: 200px"></audio></td>
     <td><audio src="assets/results/medley_solos/edit/652_83/652_83_edit_mel_ours_style_target.wav" controls style="width: 200px"></audio></td>
-    <td><img src="assets/results/medley_solos/edit/652_83/652_83_edit_mel_ours.png" controls style="width: 300px; height: 100px"></td>
+    <td><img src="assets/results/medley_solos/edit/652_83/652_83_edit_mel_ours.png"></td>
   </tr>
 
   
@@ -344,6 +342,7 @@ Scroll to see all the results if necessary.
 
   </tbody>
 </table>
+</div>
 
 # Conditional synthesis
 
